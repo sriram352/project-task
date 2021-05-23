@@ -43,7 +43,7 @@
     }
     .socialmedia{
         text-align: right;
-        padding:15px 15px;
+        padding:15px 35px;
     }
     .socialicons>a{
         margin:0px 2px;
@@ -333,7 +333,7 @@
     }
     .latest-news{
         display: flex;
-        margin:40px;
+        margin:0px 40px;
     }
     .boxcontainer1{
         background:white;
@@ -396,10 +396,10 @@
         padding:0px 170px;
     }
    .col-img{
-       margin:20px;
+       margin:0px 20px;
        width:400px;
        height:200px;
-       border-radius:20px;
+       border-radius:10px;
        overflow: hidden;
    }
    .col-img:hover{
@@ -534,7 +534,6 @@
        width:100%;
     overflow: hidden;
        height:60px;
-       background-color: red;
    }
    .backgroundimg>img{
     width:100%;
@@ -542,7 +541,7 @@
    .footer-section{
        display: flex;
        padding:30px;
-       background:rgba(168, 223, 168,0.7);
+       background:rgba(66, 199, 66, 0.7);
        justify-content: center;
        background-image:url(images/mu2.png);
         background-blend-mode:overlay;
